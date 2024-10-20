@@ -1,0 +1,1 @@
+package src.items.weapons;public class CosmicSword extends Weapon {  // Cambié el nombre a "CosmicSword" para darle una temática espacial    public CosmicSword() {        super("Cosmic Sword", 20);    }}
